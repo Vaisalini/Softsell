@@ -1,12 +1,37 @@
-# React + Vite
+🚀 SoftSell
+SoftSell is a responsive, single-page marketing website for a fictional software license resale platform. The website is designed to showcase the company's service offering, explain how the process works, highlight key benefits, display customer testimonials, and capture leads through a contact form.
+GitHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Features
+Navigation Bar: Responsive design with mobile hamburger menu, smooth scroll to section links, call-to-action button.
 
-Currently, two official plugins are available:
+Hero Section: Compelling headline and subheadline, dual call-to-action buttons, animated content entrance, trust indicators (company logos).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How It Works Section: Three-step process visualization with icons, clean, easy-to-understand layout, visual flow indicators.
 
-## Expanding the ESLint configuration
+Why Choose Us Section: Four key benefit tiles with icons, hover animations for interactive feel.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Customer Testimonials: Two featured testimonials with avatar, name, role, and company, star rating display, card-based layout with hover effects.
+
+Contact Form: Comprehensive lead capture form, frontend validation for all fields, success toast notification, privacy policy/terms links.
+
+Footer: Multi-column layout with company info, quick links, and contact, social media icons, copyright information.
+
+Additional Features: SEO meta tags implemented, smooth scrolling functionality, responsive design for all device sizes, custom color scheme, entrance animations.
+GitHub
++1
+GitHub
++1
+
+🛠️ Tech Stack
+Frontend: React.js with Vite for fast development and hot module replacement.
+
+Styling: Tailwind CSS for utility-first styling, enabling rapid UI development.
+
+Icons: Lucide React for crisp and customizable icons.
+
+Animations: Framer Motion for smooth and interactive animations.
+
+Form Validation: React Hook Form with Zod schema validation for robust form handling.
+
+AI Chat: Implemented using AI SDK with OpenAI integration (with fallback responses)
