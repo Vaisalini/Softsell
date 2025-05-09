@@ -1,8 +1,8 @@
-🚀 SoftSell
+
 SoftSell is a responsive, single-page marketing website for a fictional software license resale platform. The website is designed to showcase the company's service offering, explain how the process works, highlight key benefits, display customer testimonials, and capture leads through a contact form.
 GitHub
 
-📌 Features
+📌 Features :
 Navigation Bar: Responsive design with mobile hamburger menu, smooth scroll to section links, call-to-action button.
 
 Hero Section: Compelling headline and subheadline, dual call-to-action buttons, animated content entrance, trust indicators (company logos).
@@ -18,12 +18,8 @@ Contact Form: Comprehensive lead capture form, frontend validation for all field
 Footer: Multi-column layout with company info, quick links, and contact, social media icons, copyright information.
 
 Additional Features: SEO meta tags implemented, smooth scrolling functionality, responsive design for all device sizes, custom color scheme, entrance animations.
-GitHub
-+1
-GitHub
-+1
 
-🛠️ Tech Stack
+Tech Stack :
 Frontend: React.js with Vite for fast development and hot module replacement.
 
 Styling: Tailwind CSS for utility-first styling, enabling rapid UI development.
